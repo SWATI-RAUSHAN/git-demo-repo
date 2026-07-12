@@ -4,3 +4,9 @@ h2{
 p{
   color:blue;
 }
+img{
+    height:200px;
+    width: 200px;
+    /* position: relative;
+    left: 500px; */
+}
